@@ -1,0 +1,22 @@
+factoryID,name,lvl,strike
+6,"Concrete Factory",81,no
+23,"Fertilizer Factory",10,no
+25,"Brick Factory",136,no
+29,"Insecticide Factory",6,no
+31,Ironworks,18,no
+33,"Aluminium Factory",12,no
+34,"Silver Refinery",3,no
+37,"Copper Refinery",15,no
+39,"Oil Refinery",17,no
+52,"Titanium Refinery",6,no
+61,"Glazier's Workshop",12,no
+63,"Plastic Factory",10,no
+68,"Silicon Refinery",5,no
+69,"Electronics Factory",5,no
+76,"Medical Technology Inc.",10,no
+80,"Gold Refinery",3,no
+85,Goldsmith,6,no
+91,"Lithium Refinery",7,no
+95,"Battery Factory",3,no
+101,"Arms Factory",4,no
+118,"Drone Shipyard",2,no

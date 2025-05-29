@@ -1,0 +1,27 @@
+questID,title,descr,status,progress,missiongoal,durHours,rewarditem,rewardamount,penalty,cooldown,starttime,endtime,intervalDays,thumb
+9,"Bob The Builder","Build {} mines",0,0,100,96,48,40,162953000000,4158.000000,0.000000,0.000000,7,https://appweb.resources-game.ch/webcontent/img/questimg/schauwieschoenichbau.jpg
+10,"Who let the dogs out?","Train {} watchdogs",0,0,42850,96,104,315,17365000000,336302.000000,0.000000,0.000000,7,https://appweb.resources-game.ch/webcontent/img/questimg/wachhund.jpg
+11,"Need clay!","Sell {}m3 clay",0,0,35762750,24,44,190,182489000000,164581.000000,0.000000,0.000000,2,https://appweb.resources-game.ch/webcontent/img/questimg/lehmbedarf.jpg
+12,Collectoritis,"Collect {} crates",0,0,6150,144,46,125,367910000000,0.000000,0.000000,0.000000,6,https://appweb.resources-game.ch/webcontent/img/questimg/altersammler.jpg
+14,"Scan junkie","Scan for deposits  {} times",0,0,25,48,45,10,2265000000,2993.000000,0.000000,0.000000,3,https://appweb.resources-game.ch/webcontent/img/questimg/scanneumgebung.jpg
+17,"Warehouse boss","Expand your warehouses {} times",0,0,260,96,115,62500,1704888000000,0.000000,0.000000,0.000000,7,https://appweb.resources-game.ch/webcontent/img/questimg/lager.jpg
+21,"From old make new","Recycle {} units of loot",0,0,1250000,48,74,312500,26406000000,0.000000,0.000000,0.000000,3,https://appweb.resources-game.ch/webcontent/img/questimg/altmachneu.jpg
+22,"Stinginess is awesome!","Perform {} free (=""boss in range"") maintenances",0,0,125,168,43,1875,175973000000,174024.000000,0.000000,0.000000,7,https://appweb.resources-game.ch/webcontent/img/questimg/geizistgeil.jpg
+25,Aggressor,"Attack and win {} times",0,0,50,96,104,1250,173645000000,0.000000,0.000000,0.000000,7,https://appweb.resources-game.ch/webcontent/img/questimg/angriffslust.jpg
+26,"Need medical technology!","Sell {}m3 medical technology",0,0,248850,24,30,375000,137041000000,164625.000000,0.000000,0.000000,2,https://appweb.resources-game.ch/webcontent/img/questimg/medtech.jpg
+28,"Need copper!","Sell {}m3 copper",0,0,1079750,48,81,3750000,92183000000,164608.000000,0.000000,0.000000,2,https://appweb.resources-game.ch/webcontent/img/questimg/kupferbedarf.jpg
+30,"Lord of the missions","Finish {} quests",0,0,15,96,81,5000000,122910000000,66620.000000,0.000000,0.000000,5,https://appweb.resources-game.ch/webcontent/img/questimg/missionmission.jpg
+31,"Need more insecticides!","Sell {}m3 insecticides",0,0,6913850,72,42,1,80840000000,164600.000000,0.000000,0.000000,2,https://appweb.resources-game.ch/webcontent/img/questimg/insektizidebedarf.jpg
+32,"Time is Money","Trigger {} instant-productions (use a Giant Diamond to hasten production)",0,0,10,144,84,250000,870575000000,4220.000000,0.000000,0.000000,4,https://appweb.resources-game.ch/webcontent/img/questimg/zeitistgeld.jpg
+33,Paranoia?,"Assign {} units to defend your mines",0,0,50000,168,99,625,866171000000,0.000000,0.000000,0.000000,7,https://appweb.resources-game.ch/webcontent/img/questimg/paranoid.jpg
+35,"Pimp my mine","Apply {} Tech upgrades to your mines",0,0,5650,168,44,125,121660000000,12490.000000,0.000000,0.000000,7,https://appweb.resources-game.ch/webcontent/img/questimg/pimpmyfa.jpg
+37,"Pimp my factory","Upgrade your factories {} times ",0,0,5,120,1,50000000000,85000000000,316137.000000,0.000000,0.000000,5,https://appweb.resources-game.ch/webcontent/img/questimg/pimp_my_fabrik.jpg
+38,Maintenance,"Repair {} mines with maintenance kits",0,0,100,48,84,7500,130587000000,0.000000,0.000000,0.000000,2,https://appweb.resources-game.ch/webcontent/img/questimg/wartung.jpg
+39,"Pretty batteries","Sell {}Mwh batteries",0,0,537250,48,81,7500000,36873000000,164590.000000,0.000000,0.000000,2,https://appweb.resources-game.ch/webcontent/img/questimg/batterien.jpg
+41,"Consolation money","Suffer an epidemic",0,0,1,120,1,25000000000,4251000000,0.000000,0.000000,0.000000,0,https://appweb.resources-game.ch/webcontent/img/questimg/trostpflaster.jpg
+42,Insurance,"Suffer a mine accident",0,0,1,120,1,37500000000,6376000000,0.000000,0.000000,0.000000,0,https://appweb.resources-game.ch/webcontent/img/questimg/insurance.jpg
+43,Wanderer,"Walk a distance of {}m (Resources must be running to count)",0,0,10900,192,1,12500000000,0,0.000000,0.000000,0.000000,1,https://appweb.resources-game.ch/webcontent/img/questimg/wanderer.jpg
+44,Service,"Repair {} someone else's mines",0,0,4425,72,1,6250000000,5313000000,0.000000,0.000000,0.000000,1,https://appweb.resources-game.ch/webcontent/img/questimg/fremdwartung.jpg
+45,"Transport premium","Pay {} transport costs",0,0,127093019000,48,43,125,58658000000,0.000000,0.000000,0.000000,1,https://appweb.resources-game.ch/webcontent/img/questimg/transportpraemie.jpg
+50,"Truck dealer","Sell {} trucks",0,0,202300,48,1,17500000000,74375000000,251016.000000,0.000000,0.000000,3,https://appweb.resources-game.ch/webcontent/img/questimg/spediteur.jpg
+55,"...anyone need drones?","Sell {} scandrones",0,0,1000,48,1,5000000000,21250000000,0.000000,0.000000,0.000000,3,https://appweb.resources-game.ch/webcontent/img/questimg/drohnendroenen2.jpg

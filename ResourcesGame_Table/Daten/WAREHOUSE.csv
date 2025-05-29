@@ -1,0 +1,60 @@
+itemID,itemname,level,amount
+1,credits,1,617943732132
+2,Clay,85,2216122
+3,Gravel,50,4981866
+7,Concrete,65,2476753
+8,Coal,55,13703155
+10,"Crude Oil",30,3395895
+12,Bauxite,35,3910347
+13,"Iron Ore",45,5318558
+14,"Gold Ore",45,4639739
+15,"Silver Ore",45,1188569
+20,Limestone,55,2089954
+22,Fertilizer,20,326989
+24,Bricks,60,464731
+26,Chalcopyrite,30,939888
+28,Insecticides,40,228238
+30,Steel,25,851587
+32,Aluminium,30,254324
+35,Silver,100,1668108
+36,Copper,25,61408
+38,"Fossil Fuel",50,516068
+40,"Roman Coins",25,0
+41,Fossils,25,0
+42,"Giant Diamond",1,38
+43,"Maintenance Kit",10,0
+44,"Tech Upgrade 1",2,4796
+45,"Tech Upgrade 2",1,34
+46,"Tech Upgrade 3",1,170
+48,"Tech Upgrade 4",1,130
+49,Ilmenite,30,3586925
+51,Titanium,45,50544
+53,"Quartz Sand",22,1644269
+55,"Copper Coins",25,0
+57,"Old Tires",25,0
+58,Plastics,35,742915
+60,Glass,35,338385
+66,Electronics,20,329647
+67,Silicon,35,45577
+70,"Scrap Metal",25,0
+74,"Used Oil",25,0
+75,"Medical Technology",20,567054
+77,"Plastic Scrap",25,4043
+78,"Electronic Scrap",25,0
+79,Gold,20,100916
+81,"Rough Diamonds",90,4360918
+84,Jewellery,15,1110
+87,Weapons,10,47313
+90,"Lithium Ore",70,20613823
+92,Lithium,30,374278
+93,Batteries,35,80879
+96,"Watch Dogs",5,0
+104,"Private Army",1,0
+115,"Waste Glass",25,0
+117,"Scan Drones",5,1626
+120,"Drone Wreckage",10,0
+124,Trucks,15,141802
+158,"Night Shift",1,1
+159,Overtime,1,0
+160,"Guest Workers",1,0
+161,"Wage Subsidy",1,1
